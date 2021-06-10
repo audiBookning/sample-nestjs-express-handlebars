@@ -1,6 +1,6 @@
 # Sample code - NestJS, express-handlebars
 
-Part of a personal [list](https://github.com/audiBookning/sample-nestjs-codes) of random samples code for NestJS
+Part of a personal [list](https://github.com/audiBookning/samples-code-ressource-list) of random samples code
 
 > Quick sample code for using express-handlebars as a template engine in NestJS
 
