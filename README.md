@@ -1,8 +1,6 @@
-# Sample code - NestJS, express-handlebars
+# nestjs-express-handlebars boilerplate
 
-Part of a personal [list](https://github.com/audiBookning/samples-code-ressource-list) of random samples code
-
-> Quick sample code for using express-handlebars as a template engine in NestJS
+Quick boilerplate for using express-handlebars as a template engine in NestJS.
 
 ## Notes
 
@@ -20,15 +18,14 @@ Part of a personal [list](https://github.com/audiBookning/samples-code-ressource
 
 - `http://localhost:3000/array` : How to display an array.
 
-## BuyMeACoffee
+## Todo
 
-<a href="https://www.buymeacoffee.com/audiobookning" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+- Add documentation
+- Add authentication
 
 ## Disclaimer
 
-This code is not and will never be maintained. It is just some random sample code.
-
-Feel free to copy and make any change you like.
+This code is continued work on [sample-nestjs-express-handlebars](https://github.com/audiBookning/sample-nestjs-express-handlebars)
 
 ##
 
