@@ -2,7 +2,10 @@
   "name": "nestjs-express-handlebars",
   "version": "0.0.1",
   "description": "just testing some code",
-  "author": "Omar Adel <omarxadel21@gmail.com> (http://github.com/omarxadel)",
+  "author": "audi Bookning (https://github.com/audiBookning)",
+  "contributors": [
+    "Omar Adel <omarxadel21@gmail.com> (https://github.com/omarxadel)"
+  ],
   "private": true,
   "license": "ISC",
   "scripts": {
