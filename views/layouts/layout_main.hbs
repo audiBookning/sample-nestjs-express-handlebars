@@ -1,16 +1,21 @@
-<!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>App</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>{{title}}</title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+    />
+    <link rel="stylesheet" type="text/css" href="/stylesheets/style.css" />
+    <script http-equiv="Content-Security-Policy" src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.css" rel="stylesheet" />
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
   </head>
   <body>
-      <header>
-          {{>navbar}}
-    </header>
-    <div>
-        {{{body}}}
-    </div>
-    {{> footer }}
+    {{> navbar}}
+    {{{body}}}
+    {{> footer}}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
   </body>
 </html>
